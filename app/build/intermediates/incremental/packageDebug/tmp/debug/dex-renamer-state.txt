@@ -1,0 +1,4 @@
+#Sat Mar 21 21:19:08 KST 2020
+base.0=C\:\\Users\\judon\\AndroidStudioProjects\\Mcafe\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
